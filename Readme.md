@@ -1,4 +1,4 @@
-## JSFS (Project 1)
+## JSFS (Project 2)
 ---
 ![Rajendra Pandey, Project](https://img.shields.io/badge/Rajendra%20Pandey-FSJS-orange)
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
